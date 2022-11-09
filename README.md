@@ -1,4 +1,4 @@
 # tictactoe
 
-A simple command line tic-tac-toe game written in C++
+A simple command line tic-tac-toe game written in C++\n
 Use 1-9 to make your choice of tile.
